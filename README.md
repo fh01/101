@@ -6,3 +6,7 @@
 ## Redis
 - [Using pipelining to speedup Redis queries](https://redis.io/topics/pipelining)
 - [Redis: Pipelining, Transactions and Lua Scripts](https://rafaeleyng.github.io/redis-pipelining-transactions-and-lua-scripts)
+
+
+## Read Later
+- [Using transactions with RabbitMQ and SQL database in Spring Boot application]http://lifeinide.com/post/2017-12-29-spring-boot-rabbitmq-transactions/
