@@ -10,6 +10,10 @@
 ## Language
 ### lua
 - [Why do we need an embeddable programming language like Lua?](https://stackoverflow.com/questions/19176209/why-do-we-need-an-embeddable-programming-language-like-lua)
+
+## Spring
+### bean
+- [spring-bean-lifecycle](https://reflectoring.io/spring-bean-lifecycle/)
 ## Read Later
 - [Using transactions with RabbitMQ and SQL database in Spring Boot application](http://lifeinide.com/post/2017-12-29-spring-boot-rabbitmq-transactions/)
 - [Bloom Filters by Example](https://llimllib.github.io/bloomfilter-tutorial/)
