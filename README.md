@@ -14,7 +14,7 @@
 ## Spring
 ### bean
 - [spring-bean-lifecycle](https://reflectoring.io/spring-bean-lifecycle/)
-### @Transactional
+### data
 - [transactional pitfalls](https://codete.com/blog/5-common-spring-transactional-pitfalls/)
 ## Read Later
 - [Using transactions with RabbitMQ and SQL database in Spring Boot application](http://lifeinide.com/post/2017-12-29-spring-boot-rabbitmq-transactions/)
