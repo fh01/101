@@ -17,7 +17,8 @@
 ### data
 - [transactional pitfalls](https://codete.com/blog/5-common-spring-transactional-pitfalls/)
 - [boost-the-performance-of-your-spring-data-jpa-application](https://blog.ippon.tech/boost-the-performance-of-your-spring-data-jpa-application/)
-
+- [hibernate-field-naming-spring-boot](https://www.baeldung.com/hibernate-field-naming-spring-boot)
+- [hibernate-naming-strategy](https://www.baeldung.com/hibernate-naming-strategy)
 ## Read Later
 - [Using transactions with RabbitMQ and SQL database in Spring Boot application](http://lifeinide.com/post/2017-12-29-spring-boot-rabbitmq-transactions/)
 - [Bloom Filters by Example](https://llimllib.github.io/bloomfilter-tutorial/)
