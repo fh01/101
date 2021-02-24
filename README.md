@@ -22,5 +22,7 @@
 ## Read Later
 - [Using transactions with RabbitMQ and SQL database in Spring Boot application](http://lifeinide.com/post/2017-12-29-spring-boot-rabbitmq-transactions/)
 - [Bloom Filters by Example](https://llimllib.github.io/bloomfilter-tutorial/)
+
 ## Tips
+## Spring Schedule
 - [difference between fixed rate and fixed delay in Spring Scheduled](https://stackoverflow.com/questions/38842507/whats-the-difference-between-fixed-rate-and-fixed-delay-in-spring-scheduled-ann)
