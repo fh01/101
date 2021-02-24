@@ -35,4 +35,4 @@
 - [JPA 2.2 Support for Java 8 Date/Time Types](https://www.baeldung.com/jpa-java-time)
 ## Hibernate
 - [How to print a query string with parameter values when using Hibernate](https://stackoverflow.com/questions/1710476/how-to-print-a-query-string-with-parameter-values-when-using-hibernate)
-
+- [Hibernate could not initialize proxy – no Session](https://www.baeldung.com/hibernate-initialize-proxy-exception)
