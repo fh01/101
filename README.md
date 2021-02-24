@@ -26,3 +26,5 @@
 ## Tips
 ## Spring Schedule
 - [difference between fixed rate and fixed delay in Spring Scheduled](https://stackoverflow.com/questions/38842507/whats-the-difference-between-fixed-rate-and-fixed-delay-in-spring-scheduled-ann)
+## JPA
+- [@Temporal annotation](https://stackoverflow.com/questions/25333711/what-is-the-use-of-the-temporal-annotation-in-hibernate)
