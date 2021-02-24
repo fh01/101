@@ -29,6 +29,7 @@
 
 ## Spring MVC
 - [Working with Date Parameters in Spring](https://www.baeldung.com/spring-date-parameters)
+- [No serializer found for class org.hibernate.proxy.pojo.bytebuddy.ByteBuddyInterceptor and no properties discovered to create BeanSerializer](https://stackoverflow.com/a/37444386/4141995)
 ## JPA
 - [@Temporal annotation](https://stackoverflow.com/questions/25333711/what-is-the-use-of-the-temporal-annotation-in-hibernate)
 - [how-to-persist-localdate-with-jpa](https://stackoverflow.com/questions/54840769/how-to-persist-localdate-with-jpa)
