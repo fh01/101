@@ -26,9 +26,13 @@
 ## Tips
 ## Spring Schedule
 - [difference between fixed rate and fixed delay in Spring Scheduled](https://stackoverflow.com/questions/38842507/whats-the-difference-between-fixed-rate-and-fixed-delay-in-spring-scheduled-ann)
+
+## Spring MVC
+- [Working with Date Parameters in Spring](https://www.baeldung.com/spring-date-parameters)
 ## JPA
 - [@Temporal annotation](https://stackoverflow.com/questions/25333711/what-is-the-use-of-the-temporal-annotation-in-hibernate)
 - [how-to-persist-localdate-with-jpa](https://stackoverflow.com/questions/54840769/how-to-persist-localdate-with-jpa)
 - [JPA 2.2 Support for Java 8 Date/Time Types](https://www.baeldung.com/jpa-java-time)
 ## Hibernate
 - [How to print a query string with parameter values when using Hibernate](https://stackoverflow.com/questions/1710476/how-to-print-a-query-string-with-parameter-values-when-using-hibernate)
+
