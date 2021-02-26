@@ -1,4 +1,6 @@
 # READ IT
+## RESTFul
+- [Idempotent REST APIs](https://restfulapi.net/idempotent-rest-apis/)
 ## Distributed 
 - Locking
 [how-to-do-distributed-locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
