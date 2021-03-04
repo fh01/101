@@ -13,6 +13,10 @@
 ### lua
 - [Why do we need an embeddable programming language like Lua?](https://stackoverflow.com/questions/19176209/why-do-we-need-an-embeddable-programming-language-like-lua)
 
+## Pool
+### HikariCP
+- [Pool Size](https://github.com/brettwooldridge/HikariCP/wiki/About-Pool-Sizing)
+
 ## Spring
 ### bean
 - [spring-bean-lifecycle](https://reflectoring.io/spring-bean-lifecycle/)
