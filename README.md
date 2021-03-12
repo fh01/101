@@ -44,3 +44,6 @@
 ## Hibernate
 - [How to print a query string with parameter values when using Hibernate](https://stackoverflow.com/questions/1710476/how-to-print-a-query-string-with-parameter-values-when-using-hibernate)
 - [Hibernate could not initialize proxy – no Session](https://www.baeldung.com/hibernate-initialize-proxy-exception)
+
+## Python
+- [execution time decorator](https://medium.com/pythonhive/python-decorator-to-measure-the-execution-time-of-methods-fa04cb6bb36d)
