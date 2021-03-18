@@ -47,3 +47,7 @@
 
 ## Python
 - [execution time decorator](https://medium.com/pythonhive/python-decorator-to-measure-the-execution-time-of-methods-fa04cb6bb36d)
+
+
+## Mysql
+- [How to reset the root password in MySQL 8.0.11?](https://stackoverflow.com/questions/50691977/how-to-reset-the-root-password-in-mysql-8-0-11)
